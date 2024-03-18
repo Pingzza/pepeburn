@@ -232,7 +232,7 @@
         "x-api-key": "Mh8Xe2bGyzAVfq7m"
       },
       success: function(response) {
-        var balance = parseFloat(response.result.balance).toFixed(2);
+        var balance = response.result.balance;
         $('#sol-balance').text(balance + ' SOL');
       },
       error: function(error) {
