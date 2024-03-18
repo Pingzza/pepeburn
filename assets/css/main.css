@@ -2661,7 +2661,7 @@ ol {
 }
 
 .feature .feature-box .text-title {
-  color: #3b368c;
+  color: #454550;
   font-size: 18px;
   line-height: 28px;
   font-weight: 700;
@@ -2973,7 +2973,7 @@ ol {
 
 .progress-bg h3.goal, .progress-bg h3.raised {
 	font-family: Arial,sans-serif;
-  font-size: 1.5em;
+  font-size: 1.1em;
   font-weight: 600;
 	line-height: 78px;
 	margin: 0;
